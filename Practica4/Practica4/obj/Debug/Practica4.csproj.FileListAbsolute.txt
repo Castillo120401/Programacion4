@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Practica4\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\DELL\source\repos\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\DELL\source\repos\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\DELL\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Practica4\Practica4\obj\Debug\Practica4.Form1.resources
+C:\Users\DELL\source\repos\Practica4\Practica4\obj\Debug\Practica4.Frm2.resources
+C:\Users\DELL\source\repos\Practica4\Practica4\obj\Debug\Practica4.Properties.Resources.resources
+C:\Users\DELL\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Practica4\Practica4\obj\Debug\Practica4.exe
+C:\Users\DELL\source\repos\Practica4\Practica4\obj\Debug\Practica4.pdb
