@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\bin\Debug\EXAMEN.exe.config
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\bin\Debug\EXAMEN.exe
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\bin\Debug\EXAMEN.pdb
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.Form1.resources
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.Properties.Resources.resources
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.exe
+C:\Users\DELL\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.pdb
